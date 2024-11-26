@@ -1,15 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5B66F7&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+<img align="right" alt="Am-photo" src="https://static.wikia.nocookie.net/villains/images/9/9b/Bkraccoon.jpeg/revision/latest?cb=20230307014320">
 
 ### About me
 I'm a computer science major doing side coding projects, currently I work as an intern programming in C#.   
 
 ### Languages:
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <img align="center" alt="Am-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Am-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Am-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Am-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Am-JavaScript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  
 
 
 ### Databases:
