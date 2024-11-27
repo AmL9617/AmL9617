@@ -37,9 +37,3 @@ I'm a native brazilian portuguese speaker, speak english fluently and I'm in the
   </a>
 </div>
     
-### Contact
-
-<div> 
-  <a href=" " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:amanda96laurindo@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
