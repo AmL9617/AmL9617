@@ -3,7 +3,7 @@
 
 ### About me
 I'm a computer science major doing side coding projects.
-I'm a native brazilian portuguese speaker, speak english fluently and I'm in the process of learning both Spanish and French.
+I'm a native brazilian portuguese speaker, but I speak english fluently and I'm in the process of learning both Spanish and French.
 
 ### Languages:
 <div style="display: inline-block"><br>
