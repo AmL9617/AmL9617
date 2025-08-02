@@ -2,7 +2,7 @@
 <img align="right" alt="Am-photo" height="180" width="200" src="https://static.wikia.nocookie.net/villains/images/9/9b/Bkraccoon.jpeg/revision/latest?cb=20230307014320">
 
 ### About me
-I'm a computer science major doing side coding projects, currently I work as an intern programming in C#.
+I'm a computer science major doing side coding projects.
 I'm a native brazilian portuguese speaker, speak english fluently and I'm in the process of learning both Spanish and French.
 
 ### Languages:
